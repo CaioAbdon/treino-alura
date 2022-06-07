@@ -41,3 +41,6 @@ git remote rename origin local
 
 ### comando para criar o repositorio remoto ###
 git remote add local /c/Users/abdon/Documents/git-e-github/servidor
+
+### comando para puxar dados de um repositório remoto ###
+git pull "nome repo" "branch"
